@@ -1,4 +1,4 @@
-## Crimson Coalition - Hack The Mine. 👋
+## Crimson Coalition - We're watching you!
 
 <!--
 
