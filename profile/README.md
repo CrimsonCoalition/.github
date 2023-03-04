@@ -1,5 +1,7 @@
 ## Crimson Coalition - We're watching you!
 ***Мы предоставляем пользователям возможность загружать текстовую информацию о ваших недругах, почти не опасаясь цензуры, а также многие другие услуги.***
+
+**Подписывайтесь на наш [Telegram](t.me/CrimsonCoalition), [Twitter]()**
 <!--
 
 **Here are some ideas to get you started:**
