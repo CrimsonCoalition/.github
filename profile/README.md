@@ -2,6 +2,11 @@
 ***Мы предоставляем пользователям возможность загружать текстовую информацию о ваших недругах, почти не опасаясь цензуры, а также многие другие услуги.***
 
 **Подписывайтесь на наш [Telegram](t.me/CrimsonCoalition), [Twitter](https://twitter.com/MikeHelgensen), [VK](https://vk.com/crimsoncoalition)**
+
+## Подробная информация
+ > Ознакомится с полным перечнем услуг от [@CrimsonCoalition]() можно [тут]()
+
+
 <!--
 
 **Here are some ideas to get you started:**
