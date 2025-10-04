@@ -3,6 +3,7 @@
 
 ## Crimson Coalition - We're watching you!
 ***Раньше мы предоставляли нашим пользователям возможность загружать текстовую информацию о недругах, почти не опасаясь цензуры, а также разрабатывали различные OSINT-инструменты.***
+***В данный момент мы занимаемся интернет-исследованиями***
 
 **Подписывайтесь на наш [Telegram](t.me/CrimsonCoalition), [Twitter](https://twitter.com/MikeHelgensen), [VK](https://vk.com/crimsoncoalition)**
 
